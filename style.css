@@ -1,13 +1,30 @@
 h1 {
-	font-size: 30px;
+	font-size: 44px;
+	color: black;
+	text-align: left;
 }
 h3 {
-	font-size: 20px;
+	margin-left: 40px;
+	font-size: 30px;
 }
 img {
-	margin-left: auto;
+	margin-left: 40px;
 	margin-right: auto;
+	box-shadow: 5px 5px 5px white;
+	display: block;
 }
 body {
 	background-color: lightblue;
+}
+ul {
+	font-size: 20px;
+}
+table {
+	font-size: 20px;
+}
+#tableheader {
+	font-size: 30px;
+}
+#tablefooter {
+	font-size: 18px;
 }
